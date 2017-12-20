@@ -1,4 +1,4 @@
-# Tutorial "Multi-objective optimization with the jMetal framework"
+# PPSN2018 Tutorial: "Multi-objective optimization with the jMetal framework"
 
 This site will contain the stuff to be used in the tutorial I will give at the PPSN'18 conference in September 2018. 
 
